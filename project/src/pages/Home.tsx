@@ -48,12 +48,12 @@ const Home = () => {
             <div className="space-y-8">
               <div className="space-y-4">
                 <h1 className="text-4xl md:text-6xl font-bold text-gray-900 leading-tight">
-                  Ignite Your Business{' '}
+                More Growth , More Turnover, More clients, Guaranteed.{' '}
                   <span className="text-emerald-600">Growth</span>
                 </h1>
                 <p className="text-xl text-gray-600 leading-relaxed">
-                  Transform your brand with data-driven marketing strategies that deliver measurable results. 
-                  We help businesses scale with precision and purpose.
+                  More Growth , More Turnover, More clients, Guaranteed.
+                 ..... Marketing - Delivering Results
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-4">
@@ -84,7 +84,7 @@ const Home = () => {
                     <TrendingUp className="h-6 w-6 text-emerald-600" />
                   </div>
                   <div>
-                    <div className="text-2xl font-bold text-gray-900">300%</div>
+                    <div className="text-2xl font-bold text-gray-900">200%</div>
                     <div className="text-sm text-gray-600">Average Growth</div>
                   </div>
                 </div>
