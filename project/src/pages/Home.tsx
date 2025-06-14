@@ -99,10 +99,10 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             {[
-              { number: '500+', label: 'Clients Served', icon: Users },
-              { number: '300%', label: 'Average ROI', icon: BarChart3 },
-              { number: '50M+', label: 'Revenue Generated', icon: Target },
-              { number: '98%', label: 'Client Retention', icon: Award }
+              { number: '50+', label: 'Clients Served', icon: Users },
+              { number: '200%', label: 'Average ROI', icon: BarChart3 },
+              { number: '5M+', label: 'Revenue Generated', icon: Target },
+              { number: '92%', label: 'Client Retention', icon: Award }
             ].map((stat, index) => (
               <div key={index} className="text-center">
                 <div className="bg-emerald-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
