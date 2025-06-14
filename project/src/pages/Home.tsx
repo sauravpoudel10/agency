@@ -48,7 +48,7 @@ const Home = () => {
             <div className="space-y-8">
               <div className="space-y-4">
                 <h1 className="text-4xl md:text-6xl font-bold text-gray-900 leading-tight">
-                More Growth , More Turnover, More clients, Guaranteed.{' '}
+                Delivering result{' '}
                   <span className="text-emerald-600">Growth</span>
                 </h1>
                 <p className="text-xl text-gray-600 leading-relaxed">
